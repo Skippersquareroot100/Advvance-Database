@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="ae8q38mtqLgdX-uCqz7q">
-    <mxGraphModel>
+    <mxGraphModel dx="872" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="zFUjroh93CvoQqSCuBnq-1" value="Infity Sports BD&#xa;(Home Page)" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="170" height="170" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-8" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-1">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-9" value="Booking Page" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="620" y="50" width="170" height="170" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-10" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-9">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-11" value="Confirmation Page" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="520" y="250" width="170" height="170" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-12" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-11">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-13" value="Registration" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="170" height="170" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-14" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-13">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-15" value="Payment Page" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="280" width="170" height="130" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-16" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-15">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-17" value="Login" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="430" y="50" width="170" height="170" as="geometry">
+            <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-18" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-17">
+          <mxGeometry y="40" width="170" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
