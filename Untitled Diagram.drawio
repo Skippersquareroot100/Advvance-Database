@@ -21,7 +21,7 @@
           <mxGeometry y="40" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-11" value="Confirmation Page" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="280" width="170" height="170" as="geometry">
+          <mxGeometry x="60" y="500" width="170" height="170" as="geometry">
             <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -29,7 +29,7 @@
           <mxGeometry y="40" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-13" value="Registration" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="450" y="50" width="170" height="170" as="geometry">
+          <mxGeometry x="630" y="50" width="170" height="170" as="geometry">
             <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -37,7 +37,7 @@
           <mxGeometry y="40" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-15" value="Payment Page" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="170" height="130" as="geometry">
+          <mxGeometry x="310" y="530" width="170" height="130" as="geometry">
             <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -45,15 +45,33 @@
           <mxGeometry y="40" width="170" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-17" value="Login" style="swimlane;startSize=40;fillColor=#316FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="600" y="250" width="170" height="170" as="geometry">
+          <mxGeometry x="350" y="310" width="170" height="170" as="geometry">
             <mxRectangle x="220" y="120" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-18" value="" style="whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="zFUjroh93CvoQqSCuBnq-17">
           <mxGeometry y="40" width="170" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="zFUjroh93CvoQqSCuBnq-21" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="110" height="110" as="geometry" />
+        <mxCell id="zFUjroh93CvoQqSCuBnq-21" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;Have Account or not?&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="355" y="80" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0000;" edge="1" parent="1" source="zFUjroh93CvoQqSCuBnq-21" target="zFUjroh93CvoQqSCuBnq-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-23" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="120" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.441;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#009900;" edge="1" parent="1" source="zFUjroh93CvoQqSCuBnq-21" target="zFUjroh93CvoQqSCuBnq-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="240" as="sourcePoint" />
+            <mxPoint x="450" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFUjroh93CvoQqSCuBnq-26" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;YES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="240" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
