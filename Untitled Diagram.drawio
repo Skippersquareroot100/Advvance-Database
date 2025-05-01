@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="ae8q38mtqLgdX-uCqz7q">
-    <mxGraphModel dx="3815" dy="2005" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2102" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
             <mxPoint x="230" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFUjroh93CvoQqSCuBnq-34" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Email Already Exist&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;or Not?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF00,#FFFF00);" parent="1" vertex="1">
+        <mxCell id="zFUjroh93CvoQqSCuBnq-34" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;username Already Exist&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;or Not?&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFF00,#FFFF00);" parent="1" vertex="1">
           <mxGeometry x="857" y="68" width="215" height="149" as="geometry" />
         </mxCell>
         <mxCell id="zFUjroh93CvoQqSCuBnq-36" value="&lt;b&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
@@ -151,7 +151,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFUjroh93CvoQqSCuBnq-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#009900;strokeWidth=2;entryX=0.024;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zFUjroh93CvoQqSCuBnq-51" edge="1" target="zFUjroh93CvoQqSCuBnq-16">
+        <mxCell id="zFUjroh93CvoQqSCuBnq-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#009900;strokeWidth=2;entryX=0.024;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="zFUjroh93CvoQqSCuBnq-51" target="zFUjroh93CvoQqSCuBnq-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="806.9999999999995" y="925.4999999999998" as="sourcePoint" />
             <mxPoint x="931" y="925" as="targetPoint" />
@@ -237,7 +237,7 @@
         <mxCell id="zFUjroh93CvoQqSCuBnq-75" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;NO&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="587" y="751" width="48" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="zFUjroh93CvoQqSCuBnq-76" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#52b4ff, #ededed);exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zFUjroh93CvoQqSCuBnq-12" edge="1" target="zFUjroh93CvoQqSCuBnq-51">
+        <mxCell id="zFUjroh93CvoQqSCuBnq-76" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#52b4ff, #ededed);exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zFUjroh93CvoQqSCuBnq-12" target="zFUjroh93CvoQqSCuBnq-51" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="526.4899999999998" y="922.71" as="sourcePoint" />
             <mxPoint x="582" y="925" as="targetPoint" />
