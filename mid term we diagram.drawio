@@ -1151,6 +1151,42 @@
             <mxPoint x="109" y="32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-480" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="1060" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-481" value="" style="group" vertex="1" connectable="0" parent="BC_4qotDHSGj5d-U19qa-480">
+          <mxGeometry y="11" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-482" value="review" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="BC_4qotDHSGj5d-U19qa-481">
+          <mxGeometry x="30" y="32.69" width="50" height="16.31" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-483" value="" style="endArrow=none;html=1;rounded=0;exitX=0.114;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.477;entryY=1.082;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontStyle=1" edge="1" parent="BC_4qotDHSGj5d-U19qa-481" source="BC_4qotDHSGj5d-U19qa-482" target="BC_4qotDHSGj5d-U19qa-484">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="23.921072412929085" as="sourcePoint" />
+            <mxPoint x="30" y="6.381608619393631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-484" value="&lt;font&gt;&lt;u&gt;review_id&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="BC_4qotDHSGj5d-U19qa-481">
+          <mxGeometry y="6.539463793535457" width="60" height="17.539463793535457" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-485" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.477;entryY=1.082;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;fontStyle=1" edge="1" parent="BC_4qotDHSGj5d-U19qa-481" source="BC_4qotDHSGj5d-U19qa-482" target="BC_4qotDHSGj5d-U19qa-486">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="32.690804309696816" as="sourcePoint" />
+            <mxPoint x="80" y="6.381608619393631" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-486" value="rating" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="BC_4qotDHSGj5d-U19qa-481">
+          <mxGeometry x="70" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-487" value="comment" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" vertex="1" parent="BC_4qotDHSGj5d-U19qa-481">
+          <mxGeometry x="90" y="29" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BC_4qotDHSGj5d-U19qa-488" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;fontStyle=1" edge="1" parent="BC_4qotDHSGj5d-U19qa-481" source="BC_4qotDHSGj5d-U19qa-482" target="BC_4qotDHSGj5d-U19qa-487">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="43" as="sourcePoint" />
+            <mxPoint x="109" y="32" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
