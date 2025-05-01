@@ -1135,7 +1135,7 @@
         <mxCell id="BC_4qotDHSGj5d-U19qa-517" value="" style="group" parent="BC_4qotDHSGj5d-U19qa-515" vertex="1" connectable="0">
           <mxGeometry x="20" y="29" width="150" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="BC_4qotDHSGj5d-U19qa-518" value="equipment_usage" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" parent="BC_4qotDHSGj5d-U19qa-517" vertex="1">
+        <mxCell id="BC_4qotDHSGj5d-U19qa-518" value="room" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" parent="BC_4qotDHSGj5d-U19qa-517" vertex="1">
           <mxGeometry x="-20" y="3.69" width="80" height="27.31" as="geometry" />
         </mxCell>
         <mxCell id="BC_4qotDHSGj5d-U19qa-519" value="rate" style="ellipse;whiteSpace=wrap;html=1;fontSize=8;fontStyle=1" parent="BC_4qotDHSGj5d-U19qa-517" vertex="1">
